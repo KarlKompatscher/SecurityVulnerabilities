@@ -1,7 +1,0 @@
-useless
-
-change synchronize
-
-change fetch
-
-change: fetch in terminal --prune
